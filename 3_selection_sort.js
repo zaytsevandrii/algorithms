@@ -22,5 +22,12 @@ function selectionSort(array) {
 console.log(selectionSort(arr))
 console.log("count=", count)
 
+/* [
+    -5, -1, 0, 1, 1, 1, 2,  2,
+     2,  2, 3, 3, 4, 4, 5,  6,
+     6,  6, 6, 7, 8, 9, 9, 23,
+    32, 35
+  ]
+  count= 325 */
 
 
